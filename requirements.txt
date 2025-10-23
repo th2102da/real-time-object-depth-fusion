@@ -1,0 +1,9 @@
+matplotlib
+pycocotools
+tqdm
+requests
+torchviz
+torchinfo
+torchview
+torchmetrics
+transformers
