@@ -5,6 +5,11 @@
 
 ---
 
+## 🎥 Demo
+
+![Model Fusion Demo](modelfusion.gif)
+
+
 ## 📖 Overview
 
 This project integrates **Faster R-CNN** (for object detection) and **Depth Anything Model v2** (for depth estimation) to achieve **real-time spatial perception**.  
